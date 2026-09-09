@@ -18,7 +18,7 @@ namespace Hello_World
             Console.WriteLine("Hello World :3");
             Console.WriteLine("");
             Console.WriteLine("Press any key to leave program");
-            Console.ReadKey(true);
+            Console.ReadKey(false);
         }
     }
 }
